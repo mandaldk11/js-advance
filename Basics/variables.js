@@ -18,6 +18,6 @@ console.table([accountId,name,age,email])
 // 2) Data Types-[string,num,boolean,BigInt,Symbol,undefined,null,object,]
 // alert("hell0") --not possible bz we are using node js not browser
 // console.log("hi") console.log('gg') ---need semicolon to write in new line
-//***/ typeOf(null)=object
-// typeOf(undefined)=undefined
+//***/ typeof(null)=object
+// typeof(undefined)=undefined
 // number - 2 power 53
